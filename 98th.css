@@ -1,0 +1,75 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f6f6f6;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #009975;
+}
+h2{
+    text-align: center;
+    color: #004a2f;
+}
+p{
+    text-align: center;
+    color: #096386;
+}
+.fonts{
+    margin: 10px 50px 50px 10px;
+    height: 80px;
+    padding: 1px;
+    margin: 10px;
+}
+#bfont1{
+background-color: #50d890;
+}
+#bfont2{
+   background-color:#ff896b; 
+}
+#bfont3{
+    background-color: #f67280;
+}
+#bfont4{
+    background-color: #b2dffb;
+}
+#bfont5{
+    background-color: #c3f584;
+}
+#bfont6{
+    background-color: #fe346e;
+}
+#bfont7{
+    background-color: #d6e5fa;
+}
+#bfont8{
+    background-color: #46b3e6;
+}
+#bfont9{
+    background-color: #9be3de;
+}
+#bfont10{
+    background-color: #01d28e;
+}
+#bfont11{
+    background-color: #000272;
+}
+#bfont12{
+    background-color: #f9bcdd;
+}
+#bfont13{
+    background-color: #f6ef98;
+}
+
+.footerdiv{
+    margin: 20px 10px;
+    padding: 20px;
+    background-color: #ff5858;
+    color: seashell;
+}
+#flinks{
+    text-align: center;
+    color: seashell;
+}
+#foot{
+    color: white;
+}
